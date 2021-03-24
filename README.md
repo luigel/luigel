@@ -42,4 +42,4 @@
 **Opensource Projects**
 
 [![LaravelPaymongo](https://github-readme-stats.vercel.app/api/pin/?username=luigel&repo=laravel-paymongo&theme=dracula)](https://github.com/luigel/laravel-paymongo) 
-[![TextToSpeech](https://github-readme-stats.vercel.app/api/pin/?username=ci-on&repo=laravel-text-to-speech&theme=dracula)](https://github.com/ci-on/laravel-text-to-speech)
+[![TextToSpeech](https://github-readme-stats.vercel.app/api/pin/?username=meemalabs&repo=laravel-text-to-speech&theme=dracula)](https://github.com/meemalabs/laravel-text-to-speech)
