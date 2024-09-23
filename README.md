@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently working on [SellerInvestigators](https://www.sellerinvestigators.com/)
+- 🚧 Creator of HRMate
 - 👯 I’m looking to collaborate on making Open Source Projects
 - 💬 Ask me about **Laravel Stuff** 😀
 - 📫 How to reach me: [Email](mailto:rigel20.kent@gmail.com), [Linkedin](https://www.linkedin.com/in/rigel-kent-carbonel-8a34b1b8/)
